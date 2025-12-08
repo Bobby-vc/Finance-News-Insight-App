@@ -1,4 +1,5 @@
-AI-Powered Sentiment Analysis for Financial Headlines
+### **AI-Powered Sentiment Analysis for Financial Headlines**
+
 
 This project is a simple AI-driven web application built with Streamlit that analyzes financial news headlines and predicts their sentiment as Positive, Neutral, or Negative.
 
